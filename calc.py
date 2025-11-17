@@ -4,6 +4,9 @@ def add(a, b):
 def subtract(a, b):
  """Sottrae il secondo numero dal primo"""
  return a - b
+def multiply(a, b):
+ """Moltiplica due numeri"""
+ return a * b
 if __name__ == "__main__":
  print("Benvenuto in GitCalc!")
  #Test delle funzioni
